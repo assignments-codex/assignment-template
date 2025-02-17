@@ -32,7 +32,7 @@
 
 ## Rubric
 
-| Criteria                          | Limited (0 pts)                                | Partial (3 pts)                               | Complete (5 pts)                               |
+| Criteria                          | Limited (0 pts)                                | Partial (10 pts)                              | Complete (20 pts)                              |
 | --------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------------- |
 | **Criterion #1**                  | Description for limited performance            | Description for partial performance           | Description for complete performance           |
 | **Criterion #2**                  | Description for limited performance            | Description for partial performance           | Description for complete performance           |
