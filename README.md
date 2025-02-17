@@ -23,7 +23,7 @@
 3. [Step or requirement]
 
 > **Verification or Testing** (optional):
-> - Provide any instructions for verifying outputs or steps here.
+> - Provide any instructions for verifying outputs or steps here. For example: `Include screenshots of each steps in the README.md`  
 
 ## Submission
 
