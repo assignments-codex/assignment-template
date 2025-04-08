@@ -38,3 +38,4 @@
 | **Criterion #2**                  | Description for limited performance            | Description for partial performance           | Description for complete performance           |
 | **Criterion #3**                  | Description for limited performance            | Description for partial performance           | Description for complete performance           |
 | **Code Quality and Organization** | Description for limited performance            | Description for partial performance           | Description for complete performance           |
+| **Deployed**                      | Description for limited performance            | Description for partial performance           | Description for complete performance           |
